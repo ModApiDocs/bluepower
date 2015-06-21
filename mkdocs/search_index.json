@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "BluePower API", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#bluepower-api", 
+            "text": "", 
+            "title": "BluePower API"
+        }
+    ]
+}
