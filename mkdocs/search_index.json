@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "BluePower API", 
+            "text": "BluePower API\n\n\nWelcome to the API documentation of Bluepower.", 
             "title": "Home"
         }, 
         {
             "location": "/#bluepower-api", 
-            "text": "", 
+            "text": "Welcome to the API documentation of Bluepower.", 
             "title": "BluePower API"
         }
     ]
